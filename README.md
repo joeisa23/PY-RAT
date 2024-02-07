@@ -29,7 +29,7 @@ Than copy the link generated, paste it in your browser and select your server.
 
 After that, go back onto the bot tab and select "Reset token". Copy the newly generated token, scroll all the way down on the python script and paste it in where it says
 
-# Enter your token here
+ Enter your token here
 bot.run('')
 
 
