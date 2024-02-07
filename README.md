@@ -19,6 +19,9 @@ After that, go on the  "OAUTH2"
                        
 After that, on the options "Scopes"
                           ↪️"Bot"
+
+
+
                           Than:
                            Bot permission
                            Administator
@@ -59,5 +62,7 @@ to go up too line 103 and change this:
     # Define the name of your executable
     exe_name = "ihateapes.exe"
 
+
+https://github.com/joeisa23/PY-RAT/assets/85077591/6330eaf1-f5c1-4836-a48f-57ca03e55830
 
 If you have any trouble using this, make sure to dm me on discord, ma1_art.
