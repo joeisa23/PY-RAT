@@ -20,8 +20,8 @@ After that, go on the  "OAUTH2"
 After that, on the options "Scopes"
                           ↪️"Bot"
                          
-                           "Bot permissions"
-                          ↪️"Administator"
+                           Bot permission
+                           Administator
 
 Than copy the link generated, paste it in your browser and select your server.
 
