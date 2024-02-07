@@ -19,7 +19,7 @@ After that, go on the  "OAUTH2"
                        
 After that, on the options "Scopes"
                           ↪️"Bot"
-                         
+                          Than:
                            Bot permission
                            Administator
 
